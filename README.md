@@ -1,7 +1,7 @@
 ## Hi there, I'm Moisés Santos 🐱‍💻
 
 - 🔭 I’m currently working on meta-learning and time series forecasting
-- 🌱 I’m currently learning about cloud computing and data viz
+- 🌱 I’m currently learning about Scala and trend prediction
 - ⚡ Fun fact: Some fungi create zombies, then control their minds, like some people
 
 ##
