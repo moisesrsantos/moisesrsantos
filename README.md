@@ -1,7 +1,7 @@
-## Hi there, I'm Moisés Santos 🐱‍💻
+## Hi there, I'm Moisés Santos 
 
-- 🔭 I’m currently working on meta-learning and algorithm performance explainability
-- 🌱 I’m currently learning about the Spanish language and advances in neural networks
+- 🔭 I’m currently working on algorithm performance explainability
+- 🌱 I'm currently learning dance bachata and in a loop with mathematics
 - ⚡ Fun fact: Some fungi create zombies, then control their minds, like some people
 
 ##
